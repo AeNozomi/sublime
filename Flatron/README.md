@@ -25,7 +25,7 @@ The easiest way to install is using [Sublime Package Control](https://sublime.wb
 
 #### Manual Installation (Windows and Linux)
 
-  1. Download the [latest release](https://github.com/Codingbean/Flatron/releases)
+  1. Download the latest release
   2. Unzip the files and rename the folder to `Flatron`; be sure to include the spaces
   3. Find your Packages directory using the menu item `Preferences -> Browse Packages`
   4. Copy the folder into your Sublime Text `Packages` directory
@@ -45,3 +45,7 @@ You can then activate the UI theme and color scheme by modifying your user prefe
 ```
 
 Yay! Flatron is now installed! :tada:
+
+Please note:This item is not the latest version,This item is a cloned version...
+
+Only for personal study and use. Please go to the author to [download]!(https://github.com/Codingbean/Flatron/releases)
