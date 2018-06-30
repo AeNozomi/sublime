@@ -2,7 +2,7 @@ Please note:
 ---
 This item is not the latest version,This item is a cloned version...
 
-Only for personal study and use. Please go to the author to [download]!(https://github.com/Codingbean/Flatron/releases)
+Only for personal study and use. Please go to the author to [download](https://github.com/Codingbean/Flatron/releases)!
 
 Flatron
 =======
